@@ -1,0 +1,21 @@
+string:
+
+  improtant methods(functions):
+         . len()
+         .lower()
+         .upper()
+         .count(arg)
+         .find(arg)   it find the index location of word passed as argument
+         .replace(arg, arg)
+        {},{}      .format(arg,arg)          instead we can use f string m = f'{},{}'
+        help(str).....imp method
+        dir(arg)
+        help(srt.find())*   it will give you broad overview
+
+Integer
+
+print(method())
+
+    type()
+    round(value)
+
